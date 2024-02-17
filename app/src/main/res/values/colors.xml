@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_primary">#0041C2</color>
+    <color name="app_secondary">#0041C2</color>
+    <color name="app_primary_light">#1E90FF</color>
+    <color name="app_teal">#FF03DAC5</color>
+    <color name="app_teal_700">#FF018786</color>
+    <color name="app_black">#FF000000</color>
+    <color name="app_white">#FFFFFFFF</color>
+    <color name="app_background">#ffffff</color>
+    <color name="app_green">#00FF00</color>
+    <color name="app_red">#FF0000</color>
+    <color name="app_text">#252525</color>
+</resources>
